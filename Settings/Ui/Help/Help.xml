@@ -1,0 +1,126 @@
+<Helps><List>
+	<Help Name="BodyInfo">
+		<Title>体修简略信息（MOD）</Title>
+		<Text>
+			<![CDATA[
+				显示体修相关信息，详见分栏。
+			]]>
+		</Text>
+	</Help>
+
+	<Help Name="BI1" Root="BodyInfo">
+		<Title>秘体适用种族</Title>
+		<Text>
+		<![CDATA[
+			如果你看到这段文字，说明MOD出问题了……
+		]]>
+		</Text>
+	</Help>
+
+	<Help Name="RaceSuperBody">
+		<Title>种族适用秘体（MOD）</Title>
+		<Text>
+			<![CDATA[
+				基于种族显示其可适应的秘体及需求部位、词条，详见分栏。
+				词条后的数字代表每一重秘体所需对应词条数量。
+			]]>
+		</Text>
+	</Help>
+
+	<Help Name="RSB1" Root="RaceSuperBody">
+		<Title>种族1</Title>
+		<Text>
+		<![CDATA[
+			如果你看到这段文字，说明MOD出问题了……
+		]]>
+		</Text>
+	</Help>
+	<Help Name="RSB2" Root="RaceSuperBody">
+		<Title>种族2</Title>
+		<Text>
+		<![CDATA[
+			如果你看到这段文字，说明MOD出问题了……
+		]]>
+		</Text>
+	</Help>
+	<Help Name="RSB3" Root="RaceSuperBody">
+		<Title>种族3</Title>
+		<Text>
+		<![CDATA[
+			如果你看到这段文字，说明MOD出问题了……
+		]]>
+		</Text>
+	</Help>
+	<Help Name="RSB4" Root="RaceSuperBody">
+		<Title>种族4</Title>
+		<Text>
+		<![CDATA[
+			如果你看到这段文字，说明MOD出问题了……
+		]]>
+		</Text>
+	</Help>
+	<Help Name="RSB5" Root="RaceSuperBody">
+		<Title>种族5</Title>
+		<Text>
+		<![CDATA[
+			如果你看到这段文字，说明MOD出问题了……
+		]]>
+		</Text>
+	</Help>
+	<Help Name="RSB6" Root="RaceSuperBody">
+		<Title>种族6</Title>
+		<Text>
+		<![CDATA[
+			如果你看到这段文字，说明MOD出问题了……
+		]]>
+		</Text>
+	</Help>
+	<Help Name="RSB7" Root="RaceSuperBody">
+		<Title>种族7</Title>
+		<Text>
+		<![CDATA[
+			如果你看到这段文字，说明MOD出问题了……
+		]]>
+		</Text>
+	</Help>
+	<Help Name="RSB8" Root="RaceSuperBody">
+		<Title>种族8</Title>
+		<Text>
+		<![CDATA[
+			如果你看到这段文字，说明MOD出问题了……
+		]]>
+		</Text>
+	</Help>
+	<Help Name="RSB9" Root="RaceSuperBody">
+		<Title>种族9</Title>
+		<Text>
+		<![CDATA[
+			如果你看到这段文字，说明MOD出问题了……
+		]]>
+		</Text>
+	</Help>
+	<Help Name="RSB10" Root="RaceSuperBody">
+		<Title>种族10</Title>
+		<Text>
+		<![CDATA[
+			如果你看到这段文字，说明MOD出问题了……
+		]]>
+		</Text>
+	</Help>
+	<Help Name="RSB11" Root="RaceSuperBody">
+		<Title>种族11</Title>
+		<Text>
+		<![CDATA[
+			如果你看到这段文字，说明MOD出问题了……
+		]]>
+		</Text>
+	</Help>
+	<Help Name="RSB12" Root="RaceSuperBody">
+		<Title>种族12</Title>
+		<Text>
+		<![CDATA[
+			如果你看到这段文字，说明MOD出问题了……
+		]]>
+		</Text>
+	</Help>
+</List></Helps>
